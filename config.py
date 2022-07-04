@@ -1,9 +1,9 @@
 data = {
-        "ID": "1943",
-        "password": "x!ED81*D*7!dhr&"
+        "ID": "",
+        "password": ""
     }
 
-link = 'http://xfilesreborn.ru/authorization'
-logs_page = 'http://xfilesreborn.ru/manager'
+link = 'http://'
+logs_page = 'http://'
 
-API_TOKEN = '5427206300:AAFZrbKvpsXhueu6SSlm-StpG0wG5N0DZvo'
+API_TOKEN = ''
